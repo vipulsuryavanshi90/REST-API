@@ -1,1 +1,1 @@
-Demonstartion the REST-API 
+Demonstartion of the REST-API 
